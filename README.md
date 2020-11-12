@@ -1,7 +1,7 @@
-# mezzio-{component}
+# pars-{component}
 
-[![Build Status](https://travis-ci.com/mezzio/mezzio-{component}.svg?branch=master)](https://travis-ci.com/mezzio/mezzio-{component})
-[![Coverage Status](https://coveralls.io/repos/github/mezzio/mezzio-{component}/badge.svg?branch=master)](https://coveralls.io/github/mezzio/mezzio-{component}?branch=master)
+[![Build Status](https://travis-ci.com/pars/pars-{component}.svg?branch=master)](https://travis-ci.com/pars/pars-{component})
+[![Coverage Status](https://coveralls.io/repos/github/pars/pars-{component}/badge.svg?branch=master)](https://coveralls.io/github/pars/pars-{component}?branch=master)
 
 This library provides …
 
@@ -10,7 +10,7 @@ This library provides …
 Run the following to install this library:
 
 ```bash
-$ composer require mezzio/mezzio-{component}
+$ composer require pars/pars-{component}
 ```
 
 ## Documentation
@@ -19,5 +19,5 @@ Browse the documentation online at https://docs.mezzio.dev/mezzio-{component}/
 
 ## Support
 
-* [Issues](https://github.com/mezzio/mezzio-{component}/issues/)
-* [Forum](https://discourse.laminas.dev/)
+* [Issues](https://github.com/pars/pars-{component}/issues/)
+* [Forum](https://discourse.parsphp.org/)
