@@ -1,2 +1,2 @@
 version: ~> 1.0
-import: mezzio/.github/travis/supported.yml
+import: pars/.github/travis/supported.yml

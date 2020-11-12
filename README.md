@@ -15,7 +15,7 @@ $ composer require pars/pars-{component}
 
 ## Documentation
 
-Browse the documentation online at https://docs.mezzio.dev/mezzio-{component}/
+Browse the documentation online at https://docs.parsphp.org/pars-{component}/
 
 ## Support
 

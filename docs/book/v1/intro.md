@@ -1,3 +1,3 @@
-# mezzio-{component}
+# pars-{component}
 
 This component provides ...
